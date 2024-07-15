@@ -26,4 +26,4 @@ app.get("/", (req, res) => {
     res.render("index");
 })
 
-module.exports = app;
+module.exports = server;
